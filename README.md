@@ -11,4 +11,4 @@ GASUnit Example
 ## Libraries
 |library|project key|
 |---|---|
-|GASUnit|`MSnMmw8hLWgjUG6uKSTQBEzVZgzu5bsVr`|
+|[GASUnit](https://github.com/gasunit/GASUnit)|`MSnMmw8hLWgjUG6uKSTQBEzVZgzu5bsVr`|
